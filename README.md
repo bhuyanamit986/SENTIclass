@@ -26,6 +26,6 @@ You have got a collection of 25 thousands movie reviews in reviews.txt file and 
 
 ---
 
- - Final Train Accuracy : 83.1%
- - Final Test Accuracy  : 84.6%
+ - Final Train Accuracy : 92.1%
+ - Final Test Accuracy  : 85%
  - T-SNE visualization of the polarity of the dataset.
